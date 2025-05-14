@@ -10,7 +10,7 @@ Setup Instructions
 1. Clone the repo 
 2. Create and setup the virtual env 
 3. Install dependencies 
-pip instll -r requirements.txt 
+pip install -r requirements.txt 
 4. Setup the GROQ key 
 5. Run the API server 
 uvicorn app.main:app --reload
